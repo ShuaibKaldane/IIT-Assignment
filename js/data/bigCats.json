@@ -1,0 +1,5 @@
+[
+    {"name": "Lion", "size": "Large", "location": "Africa", "image": "lion.jpg"},
+    {"name": "Tiger", "size": "Large", "location": "Asia", "image": "tiger.jpg"},
+    {"name": "Leopard", "size": "Medium", "location": "Africa", "image": "leopard.jpg"}
+]

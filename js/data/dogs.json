@@ -1,0 +1,5 @@
+[
+    {"name": "Beagle", "size": "Small", "location": "Europe", "image": "beagle.jpg"},
+    {"name": "Bulldog", "size": "Medium", "location": "Europe", "image": "bulldog.jpg"},
+    {"name": "Dachshund", "size": "Small", "location": "Europe", "image": "dachshund.jpg"}
+]

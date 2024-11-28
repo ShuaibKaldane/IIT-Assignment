@@ -1,0 +1,19 @@
+img {
+    border: 1px solid #000;
+}
+
+img:hover {
+    transform: scale(1.5);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.blue {
+    color: blue;
+}
